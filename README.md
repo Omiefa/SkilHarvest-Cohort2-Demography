@@ -1,4 +1,4 @@
-# SkilHarvest-Cohort2-Demography-Documentation
+# SkilHarvest-Cohort2-DA-Class-Demography-Documentation
 
 **Documentation Outline**
 - [Project Overview](#project-overview)
@@ -8,9 +8,6 @@
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#results-and-findings)
 - [Conclusion and Recommendations](#conclusion-and-recommendations)
-
-![](what-is-data-analyst.jpg)
-
 
 ## Project Overview
 This Data Analysis project aims to get insight from the SkilHarvest Cohort 2 Students data 
@@ -33,6 +30,7 @@ The data set was transformed by changing
 ## Data Analysis
 
 ## Results and Findings
+![]()
 some of the insight drived from the data set are as follows:
 - A Total of 44 persons responded spread around 4 African Countries
 - There are a Total 33 distinct "Occupations" and 4 distinct "Educational Levels"
