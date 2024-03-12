@@ -30,7 +30,7 @@ The data set was transformed by changing
 ## Data Analysis
 
 ## Results and Findings
-![]()
+![](Data-insight.jpg)
 some of the insight drived from the data set are as follows:
 - A Total of 44 persons responded spread around 4 African Countries
 - There are a Total 33 distinct "Occupations" and 4 distinct "Educational Levels"
