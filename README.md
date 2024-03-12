@@ -42,8 +42,8 @@ some of the insight drived from the data set are as follows:
 ![](Data-insight-2.jpg)
 ![](Data-insight-4.jpg)
 ![](Data-insight-1.jpg)
-![](Data-insight-4.jpg)
 ![](Data-insight-5.jpg)
+![](Data-insight-3.jpg)
 
 ## Conclusion and Recommendations
 The data set was transformed using power query editor and loaded into Power BI canva for visualization
