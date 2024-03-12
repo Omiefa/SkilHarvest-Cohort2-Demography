@@ -39,9 +39,9 @@ some of the insight drived from the data set are as follows:
 - The data shows that about 48% are Females and 52% are Males
 - The data also shows that majority of the responses recieved are Singles
 - The Age Range are in 5 categories and majority of the responses received are between ages 25 - 29
-![](Data-insight-1.jpg)
 ![](Data-insight-2.jpg)
-![](Data-insight-3.jpg)
+![](Data-insight-4.jpg)
+![](Data-insight-1.jpg)
 ![](Data-insight-4.jpg)
 ![](Data-insight-5.jpg)
 
