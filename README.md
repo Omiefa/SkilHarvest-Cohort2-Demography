@@ -1,4 +1,6 @@
 # SkilHarvest-Cohort2-DA-Class-Demography-Documentation
+![](what-is-data-analyst.jpg)
+
 
 **Documentation Outline**
 - [Project Overview](#project-overview)
