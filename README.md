@@ -9,6 +9,9 @@
 - [Results and Findings](#results-and-findings)
 - [Conclusion and Recommendations](#conclusion-and-recommendations)
 
+![](what-is-data-analyst.jpg)
+
+
 ## Project Overview
 This Data Analysis project aims to get insight from the SkilHarvest Cohort 2 Students data 
 collated during one of our class session. By analyzing the various parameters in the data set received,
