@@ -32,18 +32,18 @@ The data set was transformed by changing
 ## Data Analysis
 
 ## Results and Findings
-![](Data-insight.jpg)
+![](Data-insight-1.png)
 some of the insight drived from the data set are as follows:
 - A Total of 44 persons responded spread around 4 African Countries
 - There are a Total 33 distinct "Occupations" and 4 distinct "Educational Levels"
 - The data shows that about 48% are Females and 52% are Males
 - The data also shows that majority of the responses recieved are Singles
 - The Age Range are in 5 categories and majority of the responses received are between ages 25 - 29
-![](Data-insight-2.jpg)
-![](Data-insight-4.jpg)
-![](Data-insight-1.jpg)
-![](Data-insight-5.jpg)
-![](Data-insight-3.jpg)
+![](Data-insight-2.png)
+![](Data-insight-3.png)
+![](Data-insight-4.png)
+![](Data-insight-5.png)
+![](Data-insight-6.png)
 
 ## Conclusion and Recommendations
 The data set was transformed using power query editor and loaded into Power BI canva for visualization
