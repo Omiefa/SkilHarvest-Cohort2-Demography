@@ -47,4 +47,13 @@ some of the insight drived from the data set are as follows:
 
 ## Conclusion and Recommendations
 The data set was transformed using power query editor and loaded into Power BI canva for visualization
+and the insight obtained from the data are as follows:
+1. About 95% of the students resides in Nigeria
+2. Majority of the students are Males and Singles and around the age range of 25-29
+
+It is clear from our analysis from the given dataset that youthful and single Nigerians are very interested in learning new tech skills.
+Also it is clear that SkilHarvest Academy has very little presence in other Afrian countries.
+
+## Recommendation
+SkilHarvest Academy should increase their advertisments in the other African countries, to give same opportunity to the youths of those countries.
 
